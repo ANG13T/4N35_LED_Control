@@ -13,11 +13,11 @@ This projects lets you control a LED using a 4N35 optocoupler.
 
 ## Schematic
 
-![design image](https://github.com/angelina-tsuboi/L293D-Motor-Driver/blob/main/images/design.png)
+![design image](https://github.com/angelina-tsuboi/4N35_LED_Control/blob/main/images/design.png)
 
 ## How It Works
 
-hsdkjhskahjaksdhdas
+This project utilizes the 4N35 optocoupler to control a LED. The 7th digitial pin of the Arduino sends signals to the optocoupler in order to determine whether or not the LED turns off or on.
 
 ### 4N35 Functionality
 
@@ -25,7 +25,7 @@ hsdkjhskahjaksdhdas
 
 ## Completed Project
 
-![project photo](https://github.com/angelina-tsuboi/L293D-Motor-Driver/blob/main/images/finished.jpg)
+![project photo](https://github.com/angelina-tsuboi/4N35_LED_Control/blob/main/images/final.jpg)
 
 ## Sources
 
