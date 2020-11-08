@@ -1,14 +1,14 @@
-const int optPin = 7;
+const int optPin = 7; //pin is set up to 7
 
 void setup() {
-  // put your setup code here, to run once:
+  // configuring pins
   pinMode(optPin, OUTPUT);
 } 
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // controls LED by turning it off and on with a 1 second delay
   digitalWrite(optPin, LOW);
-  delay(500);
+  delay(1000);
   digitalWrite(optPin, HIGH);
-  delay(500);
+  delay(1000);
 } 
